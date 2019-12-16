@@ -2564,6 +2564,11 @@ node-pre-gyp@^0.12.0:
     semver "^5.3.0"
     tar "^4"
 
+nodeplotlib@^0.6.4:
+  version "0.6.4"
+  resolved "https://registry.yarnpkg.com/nodeplotlib/-/nodeplotlib-0.6.4.tgz#df094188c0d906b9bd7ab6d331e56a2e538ea6d0"
+  integrity sha512-HUiezU7xcTerbdQeTUbUcUwL+ltRbZPcZqnyNINLwKOPiirnXzrjoeFYACzH+vwFWfrRnnV6yMxK+zMq3F9SCw==
+
 nopt@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/nopt/-/nopt-4.0.1.tgz#d0d4685afd5415193c8c7505602d0d17cd64474d"
