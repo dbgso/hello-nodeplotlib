@@ -1,16 +1,12 @@
-# typescript-node-base
+# hello-nodeplotlib
 
-* TypeScript + Node.js project boilerplate
+sample scripts for [ngfelixl/nodeplotlib](https://github.com/ngfelixl/nodeplotlib)
 
 # Usage
 
 ```bash
-git clone https://github.com/notakaos/typescript-node-base.git
-cd typescript-node-base
-npm install
-npm run dev
+git clone https://github.com/dbgso/hello-nodeplotlib.git
+cd hello-nodeplotlib
+yarn
+yarn ts-node src/index.ts
 ```
-
-# License
-
-[ISC License](./LICENSE)
